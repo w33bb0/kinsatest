@@ -1,0 +1,17 @@
+{
+  "name": "kinsatest",
+  "version": "0.0.1",
+  "description": "Geolocation test for KinsaHealth",
+  "main": "server.js",
+  "dependencies": {
+    "csvtojson": "^1.1.0",
+    "geolib": "^2.0.22",
+    "hapi": "^16.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrei Malinas",
+  "license": "ISC"
+}
